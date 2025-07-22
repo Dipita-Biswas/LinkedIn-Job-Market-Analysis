@@ -1,7 +1,7 @@
 # LinkedIn-Job-Market-Analysis
 Analysis of LinkedIn job postings (2023–24) to identify top roles, skills, and locations for analytics grads.
 
-With thousands of roles listed every week, LinkedIn offers a fascinating window into what the job market truly looks like. I wanted to dig deeper, especially from the perspective of someone starting out in Business Analytics. So I analyzed **26,519 LinkedIn job postings** from 2023–2024 to uncover where the real opportunities lie:  
+With thousands of roles listed every week, LinkedIn offers a fascinating window into what the job market truly looks like. I wanted to dig deeper, especially from the perspective of someone starting out in Business Analytics. So I analyzed **26,519 LinkedIn job postings** from 2023–2024 (Dataset from Kaggle: LinkedIn Job Postings (2023 - 2024)) to uncover where the real opportunities lie:  
 - Which roles are actually hiring?  
 - What skills are most in demand?  
 - Where should recent graduates focus their time?
