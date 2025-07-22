@@ -32,7 +32,7 @@ The result is a clear, data-backed view of the job landscape — helpful for any
 
 ---
 
-## 📁 Project Contents
+## Project Contents
 
 | File/Folder                                            | Description                                                     |
 | ------------------------------------------------------ | --------------------------------------------------------------- |
@@ -51,7 +51,7 @@ Note: The original postings.csv file is quite large and hasn't been uploaded her
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - **Total Jobs Analyzed**: 26,519 job postings across industries and U.S. locations from 2023 to 2024.
 
@@ -71,7 +71,7 @@ Note: The original postings.csv file is quite large and hasn't been uploaded her
 
 ---
 
-## 💡 Final Takeaway
+## Final Takeaway
 
 Even though not all job postings are beginner-friendly, this analysis shows where **realistic and strategic opportunities** exist. By focusing on roles like Data Analyst in high-hiring industries (like Finance) and high-opportunity states (like California), job seekers can increase their chances of landing strong first roles in analytics.
 
