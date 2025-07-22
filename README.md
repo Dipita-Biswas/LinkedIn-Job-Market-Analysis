@@ -47,17 +47,17 @@ The result is a clear, data-backed view of the job landscape — helpful for any
 
 - **Total Jobs Analyzed**: 26,519 job postings across industries and U.S. locations from 2023 to 2024.
 
-- **Analytics-Focused Roles**: 6,418 of these jobs (24.2%) were relevant to Business Analytics backgrounds — roles like Data Analyst, Business Analyst, Product Manager, and more.
+- **Analytics-Focused Roles**: 6,418 of these jobs (24.2%) were relevant to Business Analytics backgrounds, roles like Data Analyst, Business Analyst, Product Manager, and more.
 
-- **Entry-Level Friendly**: Only 2,310 of the relevant jobs were at the internship, entry-level, or associate level — highlighting how competitive the market can be for new graduates.
+- **Entry-Level Friendly**: Only 2,310 of the relevant jobs were at the internship, entry-level, or associate level highlighting how competitive the market can be for new graduates.
 
-- **Top Industries Hiring**: Financial Services, Retail, and IT made up nearly one-third of the analytics-relevant postings — driven by their reliance on data for decision-making and performance.
+- **Top Industries Hiring**: Financial Services, Retail, and IT made up nearly one-third of the analytics-relevant postings driven by their reliance on data for decision-making and performance.
 
 - **Where to Look**: California, Texas, and New York emerged as the top states for analytics roles — with strong demand across tech, consulting, and finance sectors.
 
 - **Salaries Above Market**: Roles like Data Analyst ($90K), Business Analyst ($85K), and Financial Analyst ($88K) offered median salaries **above the overall market average of $80K**.
 
-- **Skills That Matter**: 23% of all job postings required technical or analytical skills — indicating a clear shift toward data-driven business functions. SQL, Python, Excel, and data visualization tools were commonly requested.
+- **Skills That Matter**: 23% of all job postings required technical or analytical skills indicating a clear shift toward data-driven business functions. SQL, Python, Excel, and data visualization tools were commonly requested.
 
 - **Best Entry Points**: For those just starting out, roles like **Data Scientist (37% entry-level)**, **Data Analyst (32%)**, and **Marketing Analyst (35%)** offered the best shot at breaking in.
 
