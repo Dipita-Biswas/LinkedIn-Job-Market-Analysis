@@ -34,12 +34,20 @@ The result is a clear, data-backed view of the job landscape — helpful for any
 
 ## 📁 Project Contents
 
-| File/Folder                                | Description |
-|-------------------------------------------|-------------|
-| `LinkedIn Job Postings.ipynb`             | Python notebook with exploratory data analysis |
-| `LinkedIn_Job Analysis.twb`               | Tableau workbook with full dashboards and visualizations |
-| `LinkedIn Job Market Analysis_Business Graduates.pptx` | Final presentation summarizing insights |
-| `data/`                                    | Folder with raw and cleaned CSV datasets used in the project |
+| File/Folder                                            | Description                                                     |
+| ------------------------------------------------------ | --------------------------------------------------------------- |
+| `LinkedIn Job Postings.ipynb`                          | Python notebook with exploratory data analysis and insights     |
+| `LinkedIn_Job Analysis.twb`                            | Tableau workbook containing all dashboards used in the analysis |
+| `LinkedIn Job Market Analysis_Business Graduates.pptx` | Final slide deck summarizing key findings and visuals           |
+| `README.md`                                            | Project overview, purpose, and key insights                     |
+| `companies_cleaned.csv`                                | Cleaned company-level data used for analysis                    |
+| `job_industries_mapped.csv`                            | Industry-mapped version of job data for easier aggregation      |
+
+Original Dataset Source:
+The dataset used in this project was sourced from Kaggle and contains over 26,000 LinkedIn job postings from 2023–2024:
+LinkedIn Job Postings – https://www.kaggle.com/datasets/arshkon/linkedin-job-postings?resource=download 
+
+Note: The original postings.csv file is quite large and hasn't been uploaded here due to GitHub size limitations. You can download it directly from the Kaggle link above.
 
 ---
 
