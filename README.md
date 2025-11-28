@@ -38,7 +38,7 @@ The result is a clear, data-backed view of the job landscape — helpful for any
 | ------------------------------------------------------ | --------------------------------------------------------------- |
 | `LinkedIn Job Postings.ipynb`                          | Python notebook with exploratory data analysis and insights     |
 | `LinkedIn_Job Analysis.twb`                            | Tableau workbook containing all dashboards used in the analysis |
-| `LinkedIn Job Market Analysis_Business Graduates.pptx` | Final slide deck summarizing key findings and visuals           |
+| `LinkedIn Job Market Analysis.pdf` | Final slide deck summarizing key findings and visuals           |
 | `README.md`                                            | Project overview, purpose, and key insights                     |
 | `companies_cleaned.csv`                                | Cleaned company-level data used for analysis                    |
 | `job_industries_mapped.csv`                            | Industry-mapped version of job data for easier aggregation      |
